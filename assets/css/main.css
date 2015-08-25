@@ -1,0 +1,81 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+#banner {
+  width: 100%;
+  background-size: cover;
+  margin: 0;
+}
+
+.container {
+
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.sidebar {
+
+  width: 22%;
+  margin: -85px 0 0 0;
+  padding: 4%;
+  color: #666666;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.logo {
+  border-radius: 100%;
+  width: 100px;
+  border: solid white;
+}
+
+.sidepara {
+  color: #AFAAAA;
+}
+
+.search {
+  margin: 10px 0;
+  font-weight: bold;
+  border-top: thin solid #AFAAAA;
+  padding: 20px 0 15px 0;
+  color: #AFAAAA;
+}
+
+.searchbox {
+  width: 100%;
+}
+
+.maincontent {
+  display: inline-block;
+  width: 60%;
+
+  margin: 0 0;
+  padding: 4%;
+  vertical-align: top;
+}
+
+.blogtitle {
+  font-family: "Slabo", sans-serif;
+  padding: 20px 0 0 0;
+  font-size: 2.5em;
+}
+
+.subtitle {
+  font-style: italic;
+  color: #666666;
+}
+
+.subtitle a {
+  text-decoration: none;
+}
+
+.blogimg {
+  width: 100%;
+}
+
+.blogtext {
+  color: #666666;
+}
