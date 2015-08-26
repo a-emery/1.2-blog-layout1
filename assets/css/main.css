@@ -79,3 +79,92 @@ body {
 .blogtext {
   color: #666666;
 }
+
+.followbox {
+  margin: 0;
+  padding:0;
+  width: 275px;
+  height: 70px;
+  border-radius: 3px;
+  background-color: white;
+  border: thin solid #E1E1E1;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+.topbox {
+  font-weight: bold;
+  height: 17px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border-bottom: thin solid #E1E1E1;
+}
+
+.topbox p {
+  margin: 2px auto 3px 2px;
+  font-size: .75em;
+  color: #272727;
+}
+
+.bottombox {
+  height: 48px;
+}
+
+.bottom1 {
+  margin: 5px;
+  height: 75%;
+  width: 14%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.followlogo {
+  width: 100%;
+}
+
+.bottom2 {
+  margin: 5px 0;
+  width: 55%;
+  display: inline-block;
+  vertical-align: top;
+  height: 74%;
+}
+
+.bottom3 {
+  margin: 8px 0;
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  height: 60%;
+}
+
+button {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  border: 0;
+  background-color: #53A0CB;
+  border-radius: 3px;
+  vertical-align: top;
+  color: white;
+  font-size: .5em;
+}
+
+.handle {
+  font-size: .75em;
+  color: #272727;
+  font-weight: bold;
+  margin: 0;
+  height: 45%;
+  vertical-align: top;
+}
+
+.subhandle {
+  font-size: .75em;
+  color: #272727;
+  margin: 0;
+  height: 45%;
+  vertical-align: bottom;
+}
