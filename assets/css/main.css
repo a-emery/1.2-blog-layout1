@@ -8,12 +8,14 @@ body {
   width: 100%;
   background-size: cover;
   margin: 0;
+  min-width: 700px;
 }
 
 .container {
 
   max-width: 1000px;
   margin: 0 auto;
+  min-width: 700px;
 }
 
 .sidebar {
